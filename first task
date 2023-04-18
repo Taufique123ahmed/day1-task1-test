@@ -1,0 +1,4 @@
+Blog about hhtp1.1 and http2.
+http1.1 loads resources one after the other,so if one resources can not be loaded,it blocks all other resources.in contrast http.2 is able to use asingle tcp connection to send multiple streams of datathat no one resource blocks any other resources
+http.2 loads the pages very fast comparing to http.1
+http.1 works on textual format where as http.2 works on binary protocol.
